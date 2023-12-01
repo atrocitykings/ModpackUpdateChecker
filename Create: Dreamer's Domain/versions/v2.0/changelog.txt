@@ -1,0 +1,70 @@
+Minecraft Version: 1.20.1
+Forge Version: 47.2.6
+
+Mods
+  ✔️ Added
+    - [EMF] Entity Model Features (traben_0)
+    - Additional Structures (XxRexRaptorxX)
+    - Boat Break Fix (ElocinDev)
+    - Boat Item View (50ap5ud5)
+    - Bountiful (Ejektaflex)
+    - Carry On (Tschipp)
+    - Chipped (terrariumearth)
+    - Configured Defaults (Fuzs)
+    - Crafting Tweaks (BlayTheNinth)
+    - CraftPresence (CDAGaming_)
+    - Create: Power Loader (Lysine)
+    - Create: Structures (FusionSwarly)
+    - Double Doors (Serilum)
+    - Euphoria Patches (SpaceEagle17)
+    - Extra Compat (Cyber_Rat)
+    - Food Effect Tooltips (Suel_ki)
+    - Fullstack Watchdog (telepathicgrunt)
+    - Geophilic Reforged (bebebea_loste)
+    - ImmediatelyFast (RaphiMC)
+    - Kypton Reforged (Anthxny)
+    - Modpack Update Checker (Jab125)
+    - Neruina (bawnorton)
+    - No Chat Reports (Aizistral)
+    - Phillip's Ruins (philipmoddev)
+    - Ping Wheel (LukenSkyne)
+    - Shield Expansion (InfernalStudios)
+
+  ⭕ Updated
+    - Corpse
+    - Cristel Lib
+    - Curios API
+    - Falling Trees
+    - Friends & Foes
+    - Moonlight Lib
+    - Placebo
+    - Sophisticated Backpack
+    - Sophisticated Code
+    - Supplementaries
+    - Supplementaries Squared
+    - Towns and Towers
+    - Xaero's Minimap, Worldmap, Plus
+
+  ❌ Removed
+    - AI Improvements
+    - Better Title Screens
+    - Default Options
+    - Default Settings
+    - Extreme Sound Muffler
+    - Load My F***ing Tags
+    - Log Begone
+    - Mod Name Tooltip
+    - Simple Magnets
+    - Sophisticated Storage
+    - Statues
+    - Time In A Bottle
+    - Trash Cans
+
+Configs
+  ⭕ Updated
+    - Fancy Menu
+    - Memory Setting
+    - Mindful Darkness
+    
+
+ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
