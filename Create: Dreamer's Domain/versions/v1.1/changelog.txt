@@ -32,6 +32,7 @@ Mods
 
   ⭕ Updated
     - Corpse
+    - Cristel Lib
     - Curios API
     - Falling Trees
     - Friends & Foes
@@ -41,6 +42,7 @@ Mods
     - Sophisticated Code
     - Supplementaries
     - Supplementaries Squared
+    - Towns and Towers
     - Xaero's Minimap, Worldmap, Plus
 
   ❌ Removed
@@ -49,6 +51,7 @@ Mods
     - Default Options
     - Default Settings
     - Extreme Sound Muffler
+    - Load My F***ing Tags
     - Log Begone
     - Mod Name Tooltip
     - Simple Magnets
