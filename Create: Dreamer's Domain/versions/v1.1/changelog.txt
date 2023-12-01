@@ -18,7 +18,9 @@ Mods
   - Updated Xaero's Minimap, Worldmap, Plus
   - Updated Supplementaries
   - Updated Supplementaries Squared
-  - Updated 
+
+  ❌ Removed
+  - AI Improvements
 
 Configs
   🔄️ Updated
