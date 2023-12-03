@@ -1,0 +1,42 @@
+Minecraft Version: 1.20.1
+Forge Version: 47.2.6
+
+**Mods**
+  ✔ ***Added***
+    - Callable Horses
+    - Functional Storage (Buuz135)
+
+  ⭕ ***Updated***
+    - Extra Compat
+    - Friends & Foes
+    - Philip's Ruins
+    - Supplementaries
+
+  ❌ ***Removed***
+    - Advancement Frames
+    - Boat Item View
+    - Carry On
+    - Create: Teleporters
+    - Creeper Overhaul
+    - Double Doors
+    - Ender Chest
+    - Ender Tanks
+    - Fast Leaf Decay
+    - Golden Hopper
+    - Horse Expert
+    - Mob Grinding Utils
+    - Nyf's Spiders
+    - Storage Drawers
+    - Structure Compass
+    - Whats That Slot
+
+**Configs**
+  ⭕ ***Updated***
+    - Inventory Profiles Next
+    - Xaero's Map
+
+**Fixes**
+  - Updated Friends & Foes since the older version caused server crashes when entering the nether.
+    
+
+ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
