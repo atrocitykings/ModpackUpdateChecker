@@ -3,7 +3,7 @@ Forge Version: 47.2.6
 
 **Mods**
   ✔ ***Added***
-    - Callable Horses
+    - Callable Horses (Tschipp)
     - Functional Storage (Buuz135)
 
   ⭕ ***Updated***
