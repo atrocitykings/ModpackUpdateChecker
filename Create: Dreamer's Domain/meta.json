@@ -3,15 +3,15 @@
     "hotfixesFormat": null,
     "versions": [
       {
-        "id": "1.0",
+        "id": "v1.0",
         "releasedAt": 1701129600000
       },
       {
-        "id": "2.0",
+        "id": "v2.0",
         "releasedAt": 1701388800000
       },
       {
-        "id": "3.0",
+        "id": "v3.0",
         "releasedAt": 1701590400000
       }
     ]
