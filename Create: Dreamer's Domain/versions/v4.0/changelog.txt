@@ -49,6 +49,6 @@ Forge Version: 47.2.6
 
 
 **Fixes**
-    - Removed Almost Unified because of Create receipies not being visible in JEI
+    - Removed Almost Unified because of Create recipes not being visible in JEI
 
 ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
