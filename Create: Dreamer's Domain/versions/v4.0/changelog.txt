@@ -1,0 +1,39 @@
+Minecraft Version: 1.20.1
+Forge Version: 47.2.6
+
+**Mods**
+  ✔ ***Added***
+    - 
+
+  ⭕ ***Updated***
+    - Armor Statues
+    - Collective
+    - Puzziles Lib
+    - Easy Shulker Boxes
+    - Straw Statues
+    - Create Encased
+    - Easy Billagers
+    - Friends & Foes
+    - GeckoLib
+    - Jade Addons
+    - Modern Fix
+    - Polymorph
+    - Towns and Towers
+    - Snow! Real Magic!
+    - SuperMartinjn642's Core Lib
+    - Resourceful Lib
+
+  ❌ ***Removed***
+    - Almost Unified
+    - Create Armory
+    - Straw Statues
+
+**Configs**
+  ⭕ ***Updated***
+    - JEI
+
+
+**Fixes**
+    - Removed Almost Unified because of Create receipies not being visible in JEI
+
+ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
