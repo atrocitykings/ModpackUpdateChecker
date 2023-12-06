@@ -3,7 +3,7 @@ Forge Version: 47.2.6
 
 **Mods**
   ✔ ***Added***
-    - 
+    - Create Editions
 
   ⭕ ***Updated***
     - Armor Statues
@@ -24,9 +24,24 @@ Forge Version: 47.2.6
     - Resourceful Lib
 
   ❌ ***Removed***
+    - Air Hop
+    - Animatica Reforged
     - Almost Unified
+    - Blossom Blade
+    - Building Gadgets
+    - Chat Colors
     - Create Armory
+    - Create Goggles (Create Plus)
+    - Create Stuff & Additions
+    - Create Jetpack
     - Straw Statues
+    - Crash Utilities
+    - Falling Trees
+    - Item Borders
+    - Right Click Harvest
+    - Shield Expansion
+    - Showcase Item
+    - Simple Voice Chat
 
 **Configs**
   ⭕ ***Updated***
