@@ -45,6 +45,7 @@ Mods
     - Falling Trees
     - Hang Glider
     - Item Borders
+    - Item Filters
     - Open Parties and Claims
     - Right Click Harvest
     - Shield Expansion
