@@ -4,11 +4,11 @@ Minecraft Version: 1.20.1
 Forge Version: 47.2.6
 
 **Mods**
-    ✔ *Added*
+  ✔ *Added*
     - Create: Balanced Flight (Angel Ring) (Anthxny)
     - Create Editions (TheDukeOfCamorr)
 
-    ⭕ *Updated*
+  ⭕ *Updated*
     - Armor Statues
     - Collective
     - Create Encased
@@ -30,7 +30,7 @@ Forge Version: 47.2.6
     - SuperMartinjn642's Core Lib
     - Towns and Towers
 
-    ❌ *Removed*
+  ❌ *Removed*
     - Air Hop
     - Almost Unified
     - Animatica Reforged
@@ -52,7 +52,7 @@ Forge Version: 47.2.6
     - Straw Statues
 
 **Configs**
-    ⭕ *Updated*
+  ⭕ *Updated*
     - JEI
 
 
