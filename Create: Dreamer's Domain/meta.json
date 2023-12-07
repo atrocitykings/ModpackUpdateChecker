@@ -5,22 +5,47 @@
       {
         "id": "v1.0",
         "releasedAt": 1701129600000
+        "promotions": {
+            "downloads": {
+              "curseforge": "https://legacy.curseforge.com/minecraft/modpacks/create-dreamers-domain"
+            }
+        }
       },
       {
         "id": "v2.0",
         "releasedAt": 1701388800000
+        "promotions": {
+            "downloads": {
+              "curseforge": "https://legacy.curseforge.com/minecraft/modpacks/create-dreamers-domain"
+            }
+        }
       },
       {
         "id": "v3.0",
         "releasedAt": 1701590400000
+        "promotions": {
+            "downloads": {
+              "curseforge": "https://legacy.curseforge.com/minecraft/modpacks/create-dreamers-domain"
+            }
+        }
       },
       {
         "id": "v4.0",
         "releasedAt": 1702022400000
+        "promotions": {
+            "downloads": {
+              "curseforge": "https://legacy.curseforge.com/minecraft/modpacks/create-dreamers-domain"
+            }
+        }
       },
       {
         "id": "v5.0",
         "releasedAt": 987654321098765
+        "promotions": {
+            "downloads": {
+              "curseforge": "https://legacy.curseforge.com/minecraft/modpacks/create-dreamers-domain"
+            }
+        }
       }
     ]
   }
