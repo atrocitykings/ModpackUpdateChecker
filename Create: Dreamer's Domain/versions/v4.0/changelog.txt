@@ -3,12 +3,12 @@
 Minecraft Version: 1.20.1
 Forge Version: 47.2.6
 
-&lMods
-  ✔ &oAdded&r
+Mods
+  ✔ Added
     - Create: Balanced Flight (Angel Ring) (Anthxny)
     - Create Editions (TheDukeOfCamorr)
 
-  ⭕ &oUpdated&r
+  ⭕ Updated
     - Armor Statues
     - Collective
     - Create Encased
@@ -30,7 +30,7 @@ Forge Version: 47.2.6
     - SuperMartinjn642's Core Lib
     - Towns and Towers
 
-  ❌ &oRemoved&r
+  ❌ Removed
     - Air Hop
     - Almost Unified
     - Animatica Reforged
@@ -51,12 +51,12 @@ Forge Version: 47.2.6
     - Simple Voice Chat
     - Straw Statues
 
-&lConfigs&r
-  ⭕ &oUpdated&r
+Configs
+  ⭕ Updated
     - JEI
 
 
-&lFixes&r
-    - Removed Almost Unified because of Create recipes not being visible in JEI
+Fixes
+  - Removed Almost Unified because of Create recipes not being visible in JEI
 
-&l&0ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING&r
+ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
