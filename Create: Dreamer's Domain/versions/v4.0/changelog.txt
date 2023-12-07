@@ -7,6 +7,8 @@ Mods
   ✔ Added
     - Create: Balanced Flight (Angel Ring) (Anthxny)
     - Create Editions (TheDukeOfCamorr)
+    - Journey Map (techbrew)
+    - Journey Map Integrations (frankv_)
 
   ⭕ Updated
     - Armor Statues
@@ -50,6 +52,9 @@ Mods
     - Showcase Item
     - Simple Voice Chat
     - Straw Statues
+    - Xaero's Minimap
+    - Xaero's Plus
+    - Xaero's Worldmap
 
 Configs
   ⭕ Updated
