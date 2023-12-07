@@ -9,6 +9,7 @@ Mods
     - Create Editions (TheDukeOfCamorr)
     - Journey Map (techbrew)
     - Journey Map Integrations (frankv_)
+    - Journey Map Teams (Mysticdrew)
 
   ⭕ Updated
     - Armor Statues
