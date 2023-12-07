@@ -3,54 +3,60 @@
 Minecraft Version: 1.20.1
 Forge Version: 47.2.6
 
-**Mods**
-  ✔ ***Added***
-    - Create Editions
+## Mods
+###  ✔ Added
+    - Create: Balanced Flight (Angel Ring) (Anthxny)
+    - Create Editions (TheDukeOfCamorr)
 
-  ⭕ ***Updated***
+###  ⭕ Updated
     - Armor Statues
     - Collective
-    - Puzziles Lib
-    - Easy Shulker Boxes
-    - Straw Statues
     - Create Encased
+    - CreativeCore
     - Easy Billagers
+    - Easy Shulker Boxes
+    - Embeddium
     - Friends & Foes
     - GeckoLib
     - Jade Addons
+    - Kotlin for Forge
     - Modern Fix
+    - Modpack Update Checker
     - Polymorph
-    - Towns and Towers
-    - Snow! Real Magic!
-    - SuperMartinjn642's Core Lib
+    - Puzziles Lib
     - Resourceful Lib
+    - Snow! Real Magic!
+    - Straw Statues
+    - SuperMartinjn642's Core Lib
+    - Towns and Towers
 
-  ❌ ***Removed***
+###  ❌ Removed
     - Air Hop
-    - Animatica Reforged
     - Almost Unified
+    - Animatica Reforged
     - Blossom Blade
     - Building Gadgets
     - Chat Colors
+    - Crash Utilities
     - Create Armory
     - Create Goggles (Create Plus)
-    - Create Stuff & Additions
     - Create Jetpack
-    - Straw Statues
-    - Crash Utilities
+    - Create Stuff & Additions
     - Falling Trees
+    - Hang Glider
     - Item Borders
     - Right Click Harvest
     - Shield Expansion
     - Showcase Item
     - Simple Voice Chat
+    - Straw Statues
 
-**Configs**
-  ⭕ ***Updated***
+## Configs
+###  ⭕ Updated
     - JEI
 
 
-**Fixes**
+##  Fixes
     - Removed Almost Unified because of Create recipes not being visible in JEI
 
-ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
+# ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
