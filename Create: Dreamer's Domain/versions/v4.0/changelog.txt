@@ -1,5 +1,5 @@
-Minecraft Version: 1.20.1
-Forge Version: 47.2.6
+Minecraft: 1.20.1
+Forge: 47.2.6
 
 Mods
   ✔ Added
@@ -46,6 +46,7 @@ Mods
     - Falling Trees
     - Hang Glider
     - Item Borders
+    - Open Parties and Claims
     - Right Click Harvest
     - Shield Expansion
     - Showcase Item
@@ -59,8 +60,8 @@ Configs
   ⭕ Updated
     - JEI
 
-
 Fixes
   - Removed Almost Unified because of Create recipes not being visible in JEI
+  - 
 
 ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
