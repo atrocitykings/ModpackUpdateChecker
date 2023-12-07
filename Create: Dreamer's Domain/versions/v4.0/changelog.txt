@@ -4,59 +4,59 @@ Minecraft Version: 1.20.1
 Forge Version: 47.2.6
 
 **Mods**
-✔ Added
-- Create: Balanced Flight (Angel Ring) (Anthxny)
-- Create Editions (TheDukeOfCamorr)
+    ✔ *Added*
+        - Create: Balanced Flight (Angel Ring) (Anthxny)
+        - Create Editions (TheDukeOfCamorr)
 
-###  ⭕ Updated
-    - Armor Statues
-    - Collective
-    - Create Encased
-    - CreativeCore
-    - Easy Billagers
-    - Easy Shulker Boxes
-    - Embeddium
-    - Friends & Foes
-    - GeckoLib
-    - Jade Addons
-    - Kotlin for Forge
-    - Modern Fix
-    - Modpack Update Checker
-    - Polymorph
-    - Puzziles Lib
-    - Resourceful Lib
-    - Snow! Real Magic!
-    - Straw Statues
-    - SuperMartinjn642's Core Lib
-    - Towns and Towers
+    ⭕ *Updated*
+        - Armor Statues
+        - Collective
+        - Create Encased
+        - CreativeCore
+        - Easy Billagers
+        - Easy Shulker Boxes
+        - Embeddium
+        - Friends & Foes
+        - GeckoLib
+        - Jade Addons
+        - Kotlin for Forge
+        - Modern Fix
+        - Modpack Update Checker
+        - Polymorph
+        - Puzziles Lib
+        - Resourceful Lib
+        - Snow! Real Magic!
+        - Straw Statues
+        - SuperMartinjn642's Core Lib
+        - Towns and Towers
 
-###  ❌ Removed
-    - Air Hop
-    - Almost Unified
-    - Animatica Reforged
-    - Blossom Blade
-    - Building Gadgets
-    - Chat Colors
-    - Crash Utilities
-    - Create Armory
-    - Create Goggles (Create Plus)
-    - Create Jetpack
-    - Create Stuff & Additions
-    - Falling Trees
-    - Hang Glider
-    - Item Borders
-    - Right Click Harvest
-    - Shield Expansion
-    - Showcase Item
-    - Simple Voice Chat
-    - Straw Statues
+    ❌ *Removed*
+        - Air Hop
+        - Almost Unified
+        - Animatica Reforged
+        - Blossom Blade
+        - Building Gadgets
+        - Chat Colors
+        - Crash Utilities
+        - Create Armory
+        - Create Goggles (Create Plus)
+        - Create Jetpack
+        - Create Stuff & Additions
+        - Falling Trees
+        - Hang Glider
+        - Item Borders
+        - Right Click Harvest
+        - Shield Expansion
+        - Showcase Item
+        - Simple Voice Chat
+        - Straw Statues
 
-## Configs
-###  ⭕ Updated
-    - JEI
+**Configs**
+    ⭕ *Updated*
+        - JEI
 
 
-##  Fixes
-    - Removed Almost Unified because of Create recipes not being visible in JEI
+**Fixes**
+        - Removed Almost Unified because of Create recipes not being visible in JEI
 
-# ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
+***ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING***
