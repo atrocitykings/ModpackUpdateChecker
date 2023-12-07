@@ -3,7 +3,6 @@ Forge: 47.2.6
 
 Mods
   ✔ Added
-    - Create: Balanced Flight (Angel Ring) (Anthxny)
     - Create Editions (TheDukeOfCamorr)
     - Journey Map (techbrew)
     - Journey Map Integrations (frankv_)
