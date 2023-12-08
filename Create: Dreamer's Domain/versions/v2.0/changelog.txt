@@ -1,8 +1,8 @@
 Minecraft Version: 1.20.1
 Forge Version: 47.2.6
 
-**Mods**
-  ✔ ***Added***
+Mods
+  ✔ Added
     - [EMF] Entity Model Features (traben_0)
     - Additional Structures (XxRexRaptorxX)
     - Boat Break Fix (ElocinDev)
@@ -30,7 +30,7 @@ Forge Version: 47.2.6
     - Ping Wheel (LukenSkyne)
     - Shield Expansion (InfernalStudios)
 
-  ⭕ ***Updated***
+  ⭕ Updated
     - Corpse
     - Cristel Lib
     - Curios API
@@ -45,7 +45,7 @@ Forge Version: 47.2.6
     - Towns and Towers
     - Xaero's Minimap, Worldmap, Plus
 
-  ❌ ***Removed***
+  ❌ Removed
     - AI Improvements
     - Better Title Screens
     - Default Options
@@ -60,11 +60,10 @@ Forge Version: 47.2.6
     - Time In A Bottle
     - Trash Cans
 
-**Configs**
-  ⭕ ***Updated***
+Configs
+  ⭕ Updated
     - Fancy Menu
     - Memory Setting
     - Mindful Darkness
     
-
 ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
