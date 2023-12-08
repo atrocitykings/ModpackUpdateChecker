@@ -1,18 +1,18 @@
 Minecraft Version: 1.20.1
 Forge Version: 47.2.6
 
-**Mods**
-  ✔ ***Added***
+Mods
+  ✔ Added
     - Callable Horses (Tschipp)
     - Functional Storage (Buuz135)
 
-  ⭕ ***Updated***
+  ⭕ Updated
     - Extra Compat
     - Friends & Foes
     - Philip's Ruins
     - Supplementaries
 
-  ❌ ***Removed***
+  ❌ Removed
     - Advancement Frames
     - Boat Item View
     - Carry On
@@ -30,12 +30,12 @@ Forge Version: 47.2.6
     - Structure Compass
     - Whats That Slot
 
-**Configs**
-  ⭕ ***Updated***
+Configs
+  ⭕ Updated
     - Inventory Profiles Next
     - Xaero's Map
 
-**Fixes**
+Fixes
   - Updated Friends & Foes since the older version caused server crashes when entering the nether.
     
 
